@@ -41,3 +41,7 @@
 - Se archivan cinco documentos de `CORR-001`: R2, R3, dos QA de R2 y conciliación, en `records/provenance/`. El estado **R3 QA NOT AUTHORIZED / CORR NOT ACCEPTED** permanece.
 - `PCM-VERSIONING-001` sigue **PROPOSED**; el Owner ha aclarado que su objeto es una regla normativa **futura** del protocolo, no una recomendación operativa opcional. La aclaración no la adopta aún. Ver `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md`.
 - Detalle y límites en `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2026-11-22.md`. `main` sin modificación; bootstrap sigue INCOMPLETE.
+
+## P0 archivo 003 — 2026-11-22
+
+Incorporadas 11 fuentes históricas de recepción inicial y G2-A en `records/initial` y `records/g2a`; registro de custodia en `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Sus estados de aceptación y QA no se reinterpretan; G2-B sigue no aceptado.

@@ -28,3 +28,7 @@
 **PCM-P0-ARCHIVE-002:** IN_PROGRESS; cinco originales CORR-001 archivados, con estados de QA R2 preservados. `CORR-001 R3` todavía candidato, re-QA NO AUTORIZADA. Próxima ruta: clasificar G2-B sin publicar evidencia controlada.
 
 **PCM-VERSIONING-001 — aclaración vinculante del alcance de la propuesta, no adopción de su contenido:** Owner especifica que se persigue una **regla futura del protocolo**, no una pauta opcional. Estado de la política `PROPOSED FOR FUTURE NORMATIVE EVALUATION / NOT EFFECTIVE`. Documento `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md`. Destinatario futuro: Owner mediante diseño/QA/release separadas; no hay autorización para cambiar `main`.
+
+## PCM-P0-ARCHIVE-003 — 2026-11-22
+
+Estado: `IN_PROGRESS`; once documentos históricos iniciales/G2-A incorporados como fuentes originales y ubicados por SHA-256, sin cambiar decisiones congeladas. Fuente y retorno: `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Siguiente ruta: PCM-001 revisa G2-B, Owner decide solamente gates reservados; no nuevas QA en este archivo.

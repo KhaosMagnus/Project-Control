@@ -40,3 +40,7 @@
 | `records/provenance/PCM-GOV-PROV-CORR-001_R2_DUAL_QA_CONSOLIDATION_AND_R3_DISPOSITION_2026-11-21.md` | `1e32610b82f4eab020fd0e6b9be5b4ba5221724efbc4dc57a13ef62ba655d644` | Conciliación / propuesta R3 |
 
 Archivo de custodia: `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2026-11-22.md`. Nota de decisión: `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md`.
+
+## PCM-P0-ARCHIVE-003 — 2026-11-22
+
+Índice de once fuentes originales de recepción y G2-A: `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Los ficheros se localizaron en `records/initial/` y `records/g2a/`, con SHA-256 individuales y blobs verificables. Conservación aditiva; no aceptación implícita.

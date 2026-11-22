@@ -32,3 +32,7 @@
 ## PCM-P0-ARCHIVE-003 — 2026-11-22
 
 Estado: `IN_PROGRESS`; once documentos históricos iniciales/G2-A incorporados como fuentes originales y ubicados por SHA-256, sin cambiar decisiones congeladas. Fuente y retorno: `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Siguiente ruta: PCM-001 revisa G2-B, Owner decide solamente gates reservados; no nuevas QA en este archivo.
+
+## PCM-P0-ARCHIVE-004 / 2026-11-22
+
+**G2-B historical evidence:** 24 fuentes archivadas. Estado: **DOCUMENTATION ARCHIVED; NOT ACCEPTED**; no QA adicional realizada ni Owner acceptance inferida. Fuente exacta y SHA en `inventory/PCM-P0-ARCHIVE-004_G2B_EVIDENCE_CHAIN_2026-11-22.md`. Siguiente ruta: PCM-001 para clasificación de G2-A/R3-R5 y D-R3-APP no publicados; Owner decide cualquier nuevo gate. 

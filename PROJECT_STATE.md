@@ -45,3 +45,8 @@
 ## P0 archivo 003 — 2026-11-22
 
 Incorporadas 11 fuentes históricas de recepción inicial y G2-A en `records/initial` y `records/g2a`; registro de custodia en `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Sus estados de aceptación y QA no se reinterpretan; G2-B sigue no aceptado.
+
+## P0 archivo 004 — G2-B histórico
+
+- Se archivaron 24 originales de G2-B (contrato, runbook, P0–P8, QA y UNI) en `records/g2b`. Manifiesto de custodia: `inventory/PCM-P0-ARCHIVE-004_G2B_EVIDENCE_CHAIN_2026-11-22.md`.
+- Preservados los resultados `BOTH P8 QA INCONCLUSIVE`, `G2-B NOT ACCEPTED`, no conformidad P5→P6 y UNI aceptación pendiente. Ninguna importación de producto en `main`.

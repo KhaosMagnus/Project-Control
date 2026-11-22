@@ -44,3 +44,7 @@ Archivo de custodia: `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2
 ## PCM-P0-ARCHIVE-003 — 2026-11-22
 
 Índice de once fuentes originales de recepción y G2-A: `inventory/PCM-P0-ARCHIVE-003_G2A_CHAIN_2026-11-22.md`. Los ficheros se localizaron en `records/initial/` y `records/g2a/`, con SHA-256 individuales y blobs verificables. Conservación aditiva; no aceptación implícita.
+
+## PCM-P0-ARCHIVE-004 — 2026-11-22
+
+El expediente G2-B contiene ahora 24 originales preservados en `records/g2b/`. Tabla completa de nombres y SHA-256: `inventory/PCM-P0-ARCHIVE-004_G2B_EVIDENCE_CHAIN_2026-11-22.md`. No asumir que un documento cuyo título dice Owner decision es una decisión primaria si su emisor real es GPT. Se mantienen el STOP P5→P6 y las reservas históricas.

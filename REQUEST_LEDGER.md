@@ -16,3 +16,9 @@
 **Provenance:** Owner originó la necesidad de centralizar y simplificar el trabajo operativo actual; PCM-001 propuso soluciones y elaboró la documentación. La aceptación posterior de propuestas no convierte al Owner en autor de ideas del agente. La falta de mensajes originales transportables se rotula y no se sustituye por resúmenes.
 
 **Bloqueo principal de cierre:** adopción formal de política/bootstrap maestro y control de archivo público/privado. Evitar repetir QA documentales sin registrar primero sus objetos y estado aquí.
+
+## Actualización P0 — 2026-11-22
+
+**PCM-P0-ARCHIVE-001** — Owner autorizó continuar centralizando documentación en el repositorio de gobierno. PCM-001 ejecutó una **primera incorporación acotada** de cuatro fuentes R3 y una matriz de custodia. Estado `IN_PROGRESS`. El volumen remanente necesita clasificación por archivo para evitar publicar fuentes CONTROLLED. **Próximo destinatario:** PCM-001 para continuar inventario documentado; Owner decide cambios normativos, de seguridad y futuras importaciones a main.
+
+**PCM-VERSIONING-001** — Owner propuso semántica mayor / herramientas compatibles / correcciones. Borrador detallado en `proposals/`, estado `PROPOSED; NOT ADOPTED`. No implica publicar v1.0.1/v1.1.0/v2.0.0 ni alterar protocolo FROZEN.

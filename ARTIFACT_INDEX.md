@@ -17,3 +17,14 @@
 | Enmienda unipersonal G2-B | `PCM-001_G2-B_P8_UNIPERSONAL_AUTHORITY_AND_REVIEW_AMENDMENT_DRAFT_2026-11-20.md` SHA-256 `410c12a8f2f46ac20322a6ec76d76e038c9b7979a565044d6db8ee5cec29ca76` | EXTERNO; OWNER ACCEPTANCE PENDING |
 
 **Publicación siguiente:** no copiar indiscriminadamente el archivo local completo al repositorio público. Registrar allowlist de artefactos clasificados antes de importarlos. Un archivo con hash es evidencia de bytes, no autenticación del emisor ni aprobación de su contenido.
+
+## Archivo nuevo verificado — PCM-P0-ARCHIVE-001 (2026-11-22)
+
+| Ubicación de publicación | SHA-256 origen | Disposición |
+|---|---|---|
+| `records/provenance/PCM-GOV-PROV-DES-003_ATTRIBUTION_CONTRACT_R3_CORRECTIVE_DRAFT_2026-11-20.md` | `325bd44c8ab572cd7229219d7f08325e170c0e0797f9025c1abae4abb0a10cad` | Fuente original archivada sin cambios |
+| `records/provenance/PCM-GOV-PROV-IQA-002_INFORME_REQA_INDEPENDIENTE.md` | `a24c116f02399946ccf7f7aaab11a460d0679af6d174e5d15fbe471434a2fb61` | Fuente original archivada sin cambios |
+| `records/provenance/PCM-GOV-PROV-IQA-002_GROK_FOCUSED_R3_REQA_REPORT.md` | `61b68c3ede0823d4286f73214e69b624c1b968709b09e14acc943942670bb7c9` | Fuente original archivada sin cambios |
+| `records/provenance/PCM-GOV-PROV-R3-ACCEPTANCE-001_LOCAL_OWNER_DECISION_RECORD_2026-11-21.md` | `ac4e43a0d123aaa8c32b35b38699132338e791970237c3194442b57b37b8ac81` | Fuente original archivada sin cambios |
+
+**Inventario y restricciones:** `inventory/PCM-P0-DOCUMENTARY_RECONCILIATION_2026-11-22.md`. **Versionado:** `proposals/PCM-VERSIONING-001_SEMVER_POLICY_PROPOSAL_2026-11-22.md` (NO ADOPTED). Para estos cuatro documentos se debe usar la ubicación interna más reciente en vez de la marca anterior EXTERNAL; los registros históricos del índice se conservan como checkpoint previo.

@@ -28,3 +28,10 @@
 2. Resolver el HEAD actual y el commit exacto que contiene estos registros. Consultar GitHub antes de cualquier nueva escritura.
 3. Completar la adopción/bootstrap formales y la política de custodia/archivo mediante decisiones separadas; no afirmar `BOOTSTRAP COMPLETE` mientras falten.
 4. Reconciliar documentación histórica antes de publicarla: categoría PUBLICABLE / SANITIZABLE / CONFIDENTIAL, procedencia y SHA.
+
+## Avance documental P0 — 2026-11-22
+
+- **Se archivaron cuatro documentos fuente** del expediente R3 de procedencia, con verificación de blobs Git contra los bytes locales y preservación histórica.
+- El censo local identificó 107 archivos (91 MD, 12 ZIP, 4 imágenes); hay documentos CONTROLLED excluidos de la rama pública y el inventario no está cerrado.
+- Estado: `DOCUMENTARY P0 ARCHIVE IN PROGRESS`; bootstrap integral y estándar en `main` siguen NO PUBLICADOS.
+- Registros nuevos: `inventory/PCM-P0-DOCUMENTARY_RECONCILIATION_2026-11-22.md` y `proposals/PCM-VERSIONING-001_SEMVER_POLICY_PROPOSAL_2026-11-22.md` (propuesta no efectiva).

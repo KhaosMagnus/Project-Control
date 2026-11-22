@@ -84,3 +84,10 @@ Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d
 - **Autoridad de publicación:** mensaje Owner `PCM-002-AUTHREQ-001 — GRANTED` limitado a tres archivos; no adopción del requisito.
 - **Fuentes de contraste:** protocolo v1.0 FROZEN, blob `1ac3689c1e811d1594291afee6b2c1c6efd093d0`; política de procedencia R3, blob `9ed659715a47a199df4b21005382c68678958dc8`; aceptación local R3, blob `107aab1f7332849385737655bb171da1b712980a`.
 - **Próxima ruta:** evaluación documental y propuesta de integración en versión sucesora, sujetas a nuevas autorizaciones.
+
+## PCM-GOV-AUTHREQ-DES-001 — Design follow-up (2026-11-22)
+
+- **Design draft:** `planning/PCM-GOV-AUTHREQ-DES-001_AUTHORIZATION_REQUEST_GATE_DESIGN_2026-11-22.md`; `NOT FROZEN / NOT QA ACCEPTED / NOT ADOPTED`. Proposed types: `RECOMMENDATION`, `AUTHORIZATION_REQUEST`, `AUTHORIZATION_DECISION`, `EXECUTION_RECORD`, `VERIFICATION_RETURN`; 10 rules, 14 criteria and 18 unexecuted test cases.
+- **Source:** `PCM-GOV-AUTHREQ-001` original proposal blob `bb58d83874f662a4640a303557982d3ff2a1db0f`. Owner direct next-stage direction was observed in PCM-002 chat and is a secondary attributed record for external readers without the original message.
+- **Documentary authority:** continuation to design and publication on `meta/project-control` interpreted from current Owner direction; no QA/integration/product-code authorization. Resolve this design's blob SHA from its containing commit; no self-reference.
+- **Next gate:** prepare QA assignment for Owner to authorize separately, then independent review of pinned candidate.

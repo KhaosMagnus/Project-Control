@@ -91,3 +91,11 @@ Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d
 - **Source:** `PCM-GOV-AUTHREQ-001` original proposal blob `bb58d83874f662a4640a303557982d3ff2a1db0f`. Owner direct next-stage direction was observed in PCM-002 chat and is a secondary attributed record for external readers without the original message.
 - **Documentary authority:** continuation to design and publication on `meta/project-control` interpreted from current Owner direction; no QA/integration/product-code authorization. Resolve this design's blob SHA from its containing commit; no self-reference.
 - **Next gate:** prepare QA assignment for Owner to authorize separately, then independent review of pinned candidate.
+
+## PCM-GOV-AUTHREQ-DES-001-IQA-001 — QA packet and handoffs (2026-11-22)
+
+- **Single common packet:** `reviews/PCM-GOV-AUTHREQ-DES-001_IQA-001_COMMON_PACKET_2026-11-22.md`, READ-ONLY design review, 14 acceptance criteria, 18 design-only cases, exact source paths/blobs and a report contract.
+- **Reviewer-specific handoffs:** `handoffs/PCM-GOV-AUTHREQ-DES-001_IQA-001_CHATGPT_READ_ONLY_2026-11-22.md` (QA1 ChatGPT) and `handoffs/PCM-GOV-AUTHREQ-DES-001_IQA-001_GROK_READ_ONLY_2026-11-22.md` (QA2 Grok), both referencing the same packet/candidate and strictly prohibiting reviewer GitHub writes.
+- **Candidate under review:** `meta/project-control@7067be93d2ebf0b5ac8622a1e12a797b62973545` / design blob `332ab4813413cc2c317d33c4ed984cb82395dab4`; original proposal blob `bb58d83874f662a4640a303557982d3ff2a1db0f`.
+- **Authority:** Owner `GRANTED` to prepare and remit; **not** acceptance of candidate, QA result, main write or new normative version. Source is direct Owner message in PCM-002 chat; external proof limited without message export.
+- **Status:** `PACKET PREPARED / EXTERNAL REVIEW DELIVERY PENDING / NO QA VERDICT`; no report is archived yet. Resolve packet and handoff blobs against the containing control commit.

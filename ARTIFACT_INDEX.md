@@ -99,3 +99,10 @@ Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d
 - **Candidate under review:** `meta/project-control@7067be93d2ebf0b5ac8622a1e12a797b62973545` / design blob `332ab4813413cc2c317d33c4ed984cb82395dab4`; original proposal blob `bb58d83874f662a4640a303557982d3ff2a1db0f`.
 - **Authority:** Owner `GRANTED` to prepare and remit; **not** acceptance of candidate, QA result, main write or new normative version. Source is direct Owner message in PCM-002 chat; external proof limited without message export.
 - **Status:** `PACKET PREPARED / EXTERNAL REVIEW DELIVERY PENDING / NO QA VERDICT`; no report is archived yet. Resolve packet and handoff blobs against the containing control commit.
+
+## PCM-GOV-RECOVERY-SOURCE-001 — Project/Library document discovery (2026-11-22)
+
+- **Local guide:** `planning/PCM-GOV-RECOVERY-SOURCE-001_PROJECT_LIBRARY_DISCOVERY_CONTROL_2026-11-22.md` (Owner-authorized as documentary recovery guidance, non-normative for external adopters).
+- **Problem addressed:** avoid falsely declaring source absent when it exists in Project files or Library; avoid unnecessary duplicate uploads; preserve search scope, byte integrity and publicability.
+- **Evidence:** original QA1 report `PCM-GOV-AUTHREQ-DES-001_IQA-001_CHATGPT_REPORT.md`, existing in user's Library with SHA-256 `e5e8b04d89ce73fa48a5144fa1dde91d983036648d20ef8c4348c7e72979bed7`. This index references the original; it does **not** copy report bytes to the public repo.
+- **Future gate:** portable standard proposal/compatibility/QA/Owner adoption are distinct and pending; do not treat local authorization as general normative release.

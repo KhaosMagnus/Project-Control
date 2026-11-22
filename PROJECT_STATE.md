@@ -70,3 +70,7 @@ El expediente `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSM
 ## P0 etapa documental normalizada — 2026-11-22
 
 Se preparó incorporación de 6 originales públicos, síntesis de 14 fuentes restringidas y clasificación de nueve auxiliares singulares de ZIP. Ver `inventory/PCM-P0-CUSTODY-003_PUBLIC_ARCHIVE_AND_RESTRICTED_RECAP_2026-11-22.md`. El censo local conserva 107 identidades; no existe respaldo privado de fuentes bloqueadas. `MAIN` intacta, G2-B/CORR/UNI pendientes.
+
+## P1 preflight de extracción — 2026-11-22
+
+Plan documental `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`: inventario del payload v1.0 congelado y builder histórico; bloquea importación automática a main sin grant del Owner y QA. Estado `PREPARED / MAIN UNCHANGED / G3-G5 DEFERRED`.

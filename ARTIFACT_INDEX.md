@@ -68,3 +68,7 @@ Cuatro originales QA G2-A en `records/g2a/` archivados con SHA en `inventory/PCM
 ## PCM-P0-CUSTODY-003 — 2026-11-22
 
 Se añaden 6 fuentes originales en `records/g2a` y `records/provenance`; digests en `inventory/PCM-P0-CUSTODY-003_PUBLIC_ARCHIVE_AND_RESTRICTED_RECAP_2026-11-22.md`. 14 resúmenes sanitizados se agrupan en `records/sanitized/PCM-P0_G2A_ADMINISTRATIVE_AND_QA_SUMMARIES_2026-11-22.md`, sin sustituir original. Nueve auxiliares ZIP y sus SHA en `inventory/PCM-P0_AUXILIARY_ZIP_MEMBERS_DISPOSITION_2026-11-22.md`. Retención de cuatro ZIP exactos históricos sigue PENDING para QA abierta.
+
+## PCM-P1-PREP-001 — 2026-11-22
+
+Matriz de fuente del estándar/ZIP v1.0, manifest, 6 plantillas, adaptador, builder y reporte ZIP-001: `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`, origen Git `056adb5097b7ce067082782e8d8c92b42db9082a`. Este inventario es de **referencias históricas verificadas en GitHub** y no evidencia de importación a `main`. `PCM-VERSIONING-001` sigue propuesta normativa sin adopción.

@@ -56,3 +56,7 @@ Owner ordenó evaluar el valor documental de capturas, ZIP y archivos administra
 ## PCM-P0-CUSTODY-003 — 2026-11-22
 
 Owner autorizó finalizar clasificación y recuperación documental sin añadir infraestructura ni eliminar originales. Se incorporan 6 originales públicos, 14 fichas resumidas sanitizadas y un análisis de nueve auxiliares singulares. **P0 CLASSIFICATION/ARCHIVE WORK COMPLETE FOR OBSERVED LOCAL SET**, mientras `EXACT BYTE PRIVATE EVIDENCE RECOVERY OPEN` para gates históricos. Siguiente fase propuesta: preparación documental de extracción del estándar en main (read/design only). Decisión Owner reservada para nuevas releases, integración y custodia privada.
+
+## PCM-P1-PREP-001 — 2026-11-22
+
+PREPARED DOCUMENTARY ONLY: extracción propuesta desde `KhaosMagnus/YU3DOH-Carder` @ `056adb5097b7ce067082782e8d8c92b42db9082a`; fuentes y blobs exactos en `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`. **OWNER IMPORT AUTHORIZATION NOT GRANTED**, QA/release/deployment not started. Se encontró dependencia del builder histórico a SHA de otro repositorio. Próxima ruta: Owner decide `GRANTED / DEFERRED / REVISE` para importación exacta a `main` cuando proceda; no hay ejecución por este registro.

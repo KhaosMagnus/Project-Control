@@ -9,3 +9,7 @@
 - **Continuidad:** la siguiente instancia debe leer el HEAD de `meta/project-control`, los registros raíz, cada decisión original disponible y sus contratos/QA. La conversación no es almacenamiento durable suficiente.
 - **QA externas:** instancias convocadas por transferencia específica, sin nombramiento permanente como co-coordinadoras; informes pendientes o completados constan en `ARTIFACT_INDEX.md`.
 - **Siguiente gate:** clasificar/publicar de forma permitida los artefactos congelados y formalizar o adaptar el bootstrap; los datos faltantes permanecen `NOT ESTABLISHED`.
+
+## PCM-P1-INIT-001 — Bootstrap snapshot instance return / 2026-11-22
+
+PCM-001 (provisional) created `dev/portable` from main `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`, published exact v1.0 snapshot `e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, and verified original blob identities/readback. Authority: `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. No replacement of the master control instance, no new adoption for YU3DOH or other repositories. See `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`.

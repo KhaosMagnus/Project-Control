@@ -64,3 +64,7 @@ PREPARED DOCUMENTARY ONLY: extracción propuesta desde `KhaosMagnus/YU3DOH-Carde
 ## PCM-BRANCH-STRATEGY-001 — 2026-11-22
 
 OWNER GRANTED (local): activar desarrollo del estándar en `dev/portable`, nacida desde main `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`; preservar primero bootstrap histórico v1.0 como snapshot original. Sin autorización para fusionar en main, publicar release ni cambiar rulesets. Rutas de autoridad `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. Estado de ejecución por verificar después de la creación de rama/importación.
+
+## PCM-P1-INIT-001 / 2026-11-22
+
+**DONE** (limited): `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6` from `main@6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`, byte-exact v1.0 snapshot; no main modifications, QA or release. Authority `PCM-BRANCH-STRATEGY-001`; return `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`. **NEXT:** define successor candidate and portable builder, with approval/QA/integration gates reserved. No G3-G5 automatic activation.

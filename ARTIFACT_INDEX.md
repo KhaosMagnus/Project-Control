@@ -72,3 +72,7 @@ Se añaden 6 fuentes originales en `records/g2a` y `records/provenance`; digests
 ## PCM-P1-PREP-001 — 2026-11-22
 
 Matriz de fuente del estándar/ZIP v1.0, manifest, 6 plantillas, adaptador, builder y reporte ZIP-001: `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`, origen Git `056adb5097b7ce067082782e8d8c92b42db9082a`. Este inventario es de **referencias históricas verificadas en GitHub** y no evidencia de importación a `main`. `PCM-VERSIONING-001` sigue propuesta normativa sin adopción.
+
+## PCM-P1-INIT-001 / 2026-11-22
+
+Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`; historical frozen v1.0 11-file source, ZIP SHA-256 `c3c5cb0c896d7e11696948e7677d74ea077a87d27350064b1ad6d521ceb74f6e`, and legacy builder imported without altering source bytes. Custody and SHA trace `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`. This is not a release or QA acceptance.

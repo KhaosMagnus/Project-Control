@@ -78,3 +78,7 @@ Plan documental `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINES
 ## Estrategia local de ramas aprobada — 2026-11-22
 
 Owner aprobó comenzar desarrollo fuera de main mediante `dev/portable`, con `main` protegida para releases aceptadas; ramas pequeñas solo cuando necesiten aislamiento y cierre después de validar incorporación. Autoridad y límites en `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. **No modifica main, G2-B, protocolo congelado ni G3-G5 automáticamente.**
+
+## P1-INIT-001 — Desarrollo portable activado (2026-11-22)
+
+Owner-approved `dev/portable` created from `main@6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`; historical frozen bootstrap v1.0 imported byte-exact into development commit `e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`. Fourteen original blobs matched, including ZIP, manifest sources and historical builder; no release/QA acceptance. Execution return: `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`. Main remains `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`. The v1.0 directory is frozen; use successor paths for changes.

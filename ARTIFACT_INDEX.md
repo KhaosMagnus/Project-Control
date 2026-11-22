@@ -76,3 +76,11 @@ Matriz de fuente del estándar/ZIP v1.0, manifest, 6 plantillas, adaptador, buil
 ## PCM-P1-INIT-001 / 2026-11-22
 
 Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`; historical frozen v1.0 11-file source, ZIP SHA-256 `c3c5cb0c896d7e11696948e7677d74ea077a87d27350064b1ad6d521ceb74f6e`, and legacy builder imported without altering source bytes. Custody and SHA trace `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`. This is not a release or QA acceptance.
+
+## PCM-GOV-AUTHREQ-001 — Mejora pendiente de solicitud explícita (2026-11-22)
+
+- **Artefacto propuesto:** `proposals/PCM-GOV-AUTHREQ-001_EXPLICIT_AUTHORIZATION_REQUEST_GATE_2026-11-22.md`, nuevo en `meta/project-control`; `PROPOSED / OPEN / NOT ADOPTED`. Recuperar su blob SHA desde el commit de publicación; no inventar auto-referencia.
+- **Defecto documentado:** recomendación del agente ≠ solicitud formal de autorización. El incidente PCM-002 reveló omisión del gate de solicitud en una entrega documental (sin escritura no autorizada).
+- **Autoridad de publicación:** mensaje Owner `PCM-002-AUTHREQ-001 — GRANTED` limitado a tres archivos; no adopción del requisito.
+- **Fuentes de contraste:** protocolo v1.0 FROZEN, blob `1ac3689c1e811d1594291afee6b2c1c6efd093d0`; política de procedencia R3, blob `9ed659715a47a199df4b21005382c68678958dc8`; aceptación local R3, blob `107aab1f7332849385737655bb171da1b712980a`.
+- **Próxima ruta:** evaluación documental y propuesta de integración en versión sucesora, sujetas a nuevas autorizaciones.

@@ -68,3 +68,11 @@ OWNER GRANTED (local): activar desarrollo del estándar en `dev/portable`, nacid
 ## PCM-P1-INIT-001 / 2026-11-22
 
 **DONE** (limited): `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6` from `main@6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`, byte-exact v1.0 snapshot; no main modifications, QA or release. Authority `PCM-BRANCH-STRATEGY-001`; return `operations/PCM-P1-INIT-001_DEV_WORKSPACE_IMPORT_RETURN_2026-11-22.md`. **NEXT:** define successor candidate and portable builder, with approval/QA/integration gates reserved. No G3-G5 automatic activation.
+
+## PCM-GOV-AUTHREQ-001 — 2026-11-22
+
+**Origen:** Owner detectó que PCM-002 presentó documentos y recomendó publicarlos sin emitir una solicitud de autorización explícita y separada. **Clasificación preliminar:** `WORKFLOW NONCONFORMITY / MISSING EXPLICIT AUTHORIZATION REQUEST`. **Estado de mejora:** `PROPOSED / OPEN / NOT ADOPTED`. Fuente: `proposals/PCM-GOV-AUTHREQ-001_EXPLICIT_AUTHORIZATION_REQUEST_GATE_2026-11-22.md`. El protocolo genérico v1.0 y la política local R3 ya distinguen recomendación, decisión y ejecución, pero queda pendiente fortalecer el gate formal de emisión/comunicación de solicitudes y su validación en instancias LLM.
+
+**Decisión Owner `PCM-002-AUTHREQ-001`:** `GRANTED` exclusivamente para registrar este expediente y actualizar `REQUEST_LEDGER.md` y `ARTIFACT_INDEX.md` en `meta/project-control`; **NO** autorización de norma, QA, implementación, `main`, `dev/portable`, cambios de seguridad o releases. La fuente de la autorización es el mensaje original del Owner observado en el chat PCM-002; fuera de ese contexto, esta constancia es secundaria hasta exportar el mensaje original.
+
+**NEXT:** PCM-002 prepara el diseño de la mejora y una ruta de revisión; Owner conserva las decisiones de adopción normativa y gates posteriores. No confundir esta publicación documental autorizada con aprobación de contenido.

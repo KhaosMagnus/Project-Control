@@ -54,3 +54,7 @@ Incorporadas 11 fuentes históricas de recepción inicial y G2-A en `records/ini
 ## P0 archivo 005 — planificación y procedencia
 
 Se archivaron 22 fuentes complementarias (G2-A, planificación G5 e historia de procedencia), con identidad exacta; índice `inventory/PCM-P0-ARCHIVE-005_PLANNING_AND_PROVENANCE_2026-11-22.md`. No se autoriza G5, CORR-001 ni publicaciones de estándar. Queda pendiente el tratamiento de fuentes sensibles, paquetes e imágenes.
+
+## P0 catálogo residual — 2026-11-22
+
+Censo local de 107 archivos reconciliado: 66 originales documentales archivados en `records/` y **41 fuentes fuera del GitHub público**, pero con nombre, SHA-256 y tamaño catalogados en `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md`. La custodia de evidencia no pública **no está resuelta**; no declarar recuperación documental completa ni bootstrap completo. G2-B, CORR-001, UNI y G3/G4/G5 conservan sus estados.

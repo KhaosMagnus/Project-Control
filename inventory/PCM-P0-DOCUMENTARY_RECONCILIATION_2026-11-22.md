@@ -44,3 +44,7 @@ La exportación literal de mensajes Owner a este repositorio público requiere t
 ## Continuación de recuperación — archivo 002
 
 Cinco fuentes de CORR-001 archivadas en `records/provenance` con digests exactos. `PCM-VERSIONING-001`: alcance aclarado por Owner para eventual **regla normativa** del protocolo; propuesta no efectiva. Detalle, cadena de estados y ruta de retorno en `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2026-11-22.md`.
+
+## Censo residual completado — 2026-11-22
+
+Alcance verificado de esta instantánea local: 107 ficheros, de los cuales 66 Markdown originales ya están en GitHub y 41 fuentes pendientes tienen identidad exacta en `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md`. La custodia segura de los 41 requiere una ubicación futura autorizada; ningún cierre falso de evidencia se declara. Los 12 ZIP pasan CRC pero no se confunde esta prueba con cobertura completa de todos los miembros únicos.

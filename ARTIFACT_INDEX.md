@@ -52,3 +52,7 @@ El expediente G2-B contiene ahora 24 originales preservados en `records/g2b/`. T
 ## P0 archivo 005 — 2026-11-22
 
 Otros 22 originales con identidad Git/SHA y estado histórico propio: `inventory/PCM-P0-ARCHIVE-005_PLANNING_AND_PROVENANCE_2026-11-22.md`; rutas enumeradas allí. Estos archivos complementan, no superseden, las fuentes G2-A/G2-B previamente archivadas.
+
+## Archivo residual P0 — 2026-11-22
+
+`inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md` identifica los 41 originales no publicados de la instantánea local de 107, con SHA-256 y tamaño, y el requisito de una vía de recuperación privada. Las fuentes archivadas GitHub ya ascienden a 66. El catálogo no es sustituto de bytes originales.

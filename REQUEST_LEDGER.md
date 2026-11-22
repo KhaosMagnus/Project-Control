@@ -40,3 +40,7 @@ Estado: `IN_PROGRESS`; once documentos históricos iniciales/G2-A incorporados c
 ## P0 archivo 005 — 2026-11-22
 
 Recuperados 22 originales complementarios en `records/initial`, `records/g2a`, `records/planning` y `records/provenance`; fuente de custodia `inventory/PCM-P0-ARCHIVE-005_PLANNING_AND_PROVENANCE_2026-11-22.md`. Estado: ARCHIVED (histórico) sin aceptar ninguna propuesta nueva. Próximo control: clasificación de fuentes administrativas/privadas remanentes.
+
+## PCM-P0-CUSTODY-001 — 2026-11-22
+
+**STATUS:** CATALOG COMPLETE FOR OBSERVED LOCAL SET / PRIVATE RAW EVIDENCE CUSTODY OPEN. 66 originales publicados; 41 restantes catalogados por SHA-256: 18 SENSITIVE_REVIEW, 7 ADMIN_REVIEW, 12 ZIP_PACKET, 4 IMAGE_REVIEW. Documento `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md`. **NEXT OWNER:** PCM-001 continúa clasificación de evidencia; Owner decide depósito autorizado de fuentes no publicables y cualquier nueva infraestructura. No avanzar gates técnicos por inferencia.

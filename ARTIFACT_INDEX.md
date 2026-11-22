@@ -56,3 +56,7 @@ Otros 22 originales con identidad Git/SHA y estado histórico propio: `inventory
 ## Archivo residual P0 — 2026-11-22
 
 `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md` identifica los 41 originales no publicados de la instantánea local de 107, con SHA-256 y tamaño, y el requisito de una vía de recuperación privada. Las fuentes archivadas GitHub ya ascienden a 66. El catálogo no es sustituto de bytes originales.
+
+## PCM-P0-CUSTODY-002 — 2026-11-22
+
+Cuatro originales QA G2-A en `records/g2a/` archivados con SHA en `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`. El catálogo de fuentes residuales vigente pasa a `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`; su predecesor CUSTODY-001 conserva validez como corte histórico. Total 70 originales; 37 entradas en el catálogo residual (una identidad alias duplicada).

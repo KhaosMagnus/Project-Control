@@ -58,3 +58,7 @@ Se archivaron 22 fuentes complementarias (G2-A, planificación G5 e historia de 
 ## P0 catálogo residual — 2026-11-22
 
 Censo local de 107 archivos reconciliado: 66 originales documentales archivados en `records/` y **41 fuentes fuera del GitHub público**, pero con nombre, SHA-256 y tamaño catalogados en `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md`. La custodia de evidencia no pública **no está resuelta**; no declarar recuperación documental completa ni bootstrap completo. G2-B, CORR-001, UNI y G3/G4/G5 conservan sus estados.
+
+## P0 archivo 006 y catálogo CUSTODY-002 — 2026-11-22
+
+Cuatro originales adicionales G2-A/QA publicados con SHA exacto. Total de originales Markdown en GitHub: **70**. Catálogo residual sucesor: `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`, con **37 entradas** (18 revisión sensible; 2 NO_PUBLIC explícitos; 1 alias duplicado ya preservado; 12 ZIP y 4 imágenes). Custodia duradera de fuentes no públicas permanece abierta. Esto NO es `PROJECT CONTROL BOOTSTRAP COMPLETE`.

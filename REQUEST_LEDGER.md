@@ -44,3 +44,7 @@ Recuperados 22 originales complementarios en `records/initial`, `records/g2a`, `
 ## PCM-P0-CUSTODY-001 — 2026-11-22
 
 **STATUS:** CATALOG COMPLETE FOR OBSERVED LOCAL SET / PRIVATE RAW EVIDENCE CUSTODY OPEN. 66 originales publicados; 41 restantes catalogados por SHA-256: 18 SENSITIVE_REVIEW, 7 ADMIN_REVIEW, 12 ZIP_PACKET, 4 IMAGE_REVIEW. Documento `inventory/PCM-P0-CUSTODY-001_REMAINING_LOCAL_SOURCES_2026-11-22.md`. **NEXT OWNER:** PCM-001 continúa clasificación de evidencia; Owner decide depósito autorizado de fuentes no publicables y cualquier nueva infraestructura. No avanzar gates técnicos por inferencia.
+
+## PCM-P0-CUSTODY-002 — 2026-11-22
+
+Estado: `DOCUMENTARY LOCAL CENSUS RECONCILED / RAW PRIVATE CUSTODY OPEN`. Cuatro documentos QA G2-A archivados, 70 originales en GitHub; 37 objetos restantes registrados en `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`. Owner decide custodia no pública antes de afirmar recuperación documental integral. No autorización adicional de QA ni de `main`.

@@ -62,3 +62,7 @@ Censo local de 107 archivos reconciliado: 66 originales documentales archivados 
 ## P0 archivo 006 y catálogo CUSTODY-002 — 2026-11-22
 
 Cuatro originales adicionales G2-A/QA publicados con SHA exacto. Total de originales Markdown en GitHub: **70**. Catálogo residual sucesor: `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`, con **37 entradas** (18 revisión sensible; 2 NO_PUBLIC explícitos; 1 alias duplicado ya preservado; 12 ZIP y 4 imágenes). Custodia duradera de fuentes no públicas permanece abierta. Esto NO es `PROJECT CONTROL BOOTSTRAP COMPLETE`.
+
+## P0 — Evaluación de retención y privacidad (2026-11-22)
+
+El expediente `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md` clasifica las 37 fuentes residuales por utilidad real, no por extensión o etiqueta `CONTROLLED`. Resultado **PROPOSED ONLY**: 6 originales candidatos a público, 14 para síntesis sanitizada, 4 ZIP exactos retenibles temporalmente por gates abiertos, 9 objetos candidatos transitorios (8 ZIP + una captura de ramas), 3 capturas pendientes de contraste histórico y 1 alias ya archivado. No se decide depósito privado, borrado ni cierre de P0.

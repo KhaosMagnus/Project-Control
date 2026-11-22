@@ -60,3 +60,7 @@ Otros 22 originales con identidad Git/SHA y estado histórico propio: `inventory
 ## PCM-P0-CUSTODY-002 — 2026-11-22
 
 Cuatro originales QA G2-A en `records/g2a/` archivados con SHA en `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`. El catálogo de fuentes residuales vigente pasa a `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`; su predecesor CUSTODY-001 conserva validez como corte histórico. Total 70 originales; 37 entradas en el catálogo residual (una identidad alias duplicada).
+
+## Matriz de utilidad documental — PCM-P0-RETENTION-001 (2026-11-22)
+
+`inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md` añade disposición propuesta para las 37 entradas de CUSTODY-002. No sustituye sus SHA originales ni autoriza eliminación. Distinguye cuatro ZIP congelados pendientes, ocho paquetes candidatos a descarte condicionado, cuatro imágenes de diagnóstico, veinte Markdown no publicados y un alias ya custodiado. El repositorio privado adicional sigue **NOT DECIDED**.

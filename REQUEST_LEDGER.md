@@ -48,3 +48,7 @@ Recuperados 22 originales complementarios en `records/initial`, `records/g2a`, `
 ## PCM-P0-CUSTODY-002 — 2026-11-22
 
 Estado: `DOCUMENTARY LOCAL CENSUS RECONCILED / RAW PRIVATE CUSTODY OPEN`. Cuatro documentos QA G2-A archivados, 70 originales en GitHub; 37 objetos restantes registrados en `inventory/PCM-P0-CUSTODY-002_RECONCILED_RESIDUAL_CATALOG_2026-11-22.md`. Owner decide custodia no pública antes de afirmar recuperación documental integral. No autorización adicional de QA ni de `main`.
+
+## PCM-P0-RETENTION-001 — 2026-11-22
+
+Owner ordenó evaluar el valor documental de capturas, ZIP y archivos administrativos antes de definir almacenamiento privado. PCM-001 completó clasificación individual de 37 entradas; **resultado: RECOMMENDATION / NO OWNER RETENTION POLICY ACCEPTANCE**, `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md`. Cuatro paquetes en `RETAIN_EXACT_PENDING_GATE`, nueve auxiliares singulares por clasificar y 20 Markdown de publicación pendiente (6 candidatos a original público y 14 candidatos a síntesis sanitizada). **RETURN:** PCM-001 → Owner cuando haya matriz de dependencias y propuesta definitiva de retención; no solicitar repo privado todavía.

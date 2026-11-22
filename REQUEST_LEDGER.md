@@ -36,3 +36,7 @@ Estado: `IN_PROGRESS`; once documentos históricos iniciales/G2-A incorporados c
 ## PCM-P0-ARCHIVE-004 / 2026-11-22
 
 **G2-B historical evidence:** 24 fuentes archivadas. Estado: **DOCUMENTATION ARCHIVED; NOT ACCEPTED**; no QA adicional realizada ni Owner acceptance inferida. Fuente exacta y SHA en `inventory/PCM-P0-ARCHIVE-004_G2B_EVIDENCE_CHAIN_2026-11-22.md`. Siguiente ruta: PCM-001 para clasificación de G2-A/R3-R5 y D-R3-APP no publicados; Owner decide cualquier nuevo gate. 
+
+## P0 archivo 005 — 2026-11-22
+
+Recuperados 22 originales complementarios en `records/initial`, `records/g2a`, `records/planning` y `records/provenance`; fuente de custodia `inventory/PCM-P0-ARCHIVE-005_PLANNING_AND_PROVENANCE_2026-11-22.md`. Estado: ARCHIVED (histórico) sin aceptar ninguna propuesta nueva. Próximo control: clasificación de fuentes administrativas/privadas remanentes.

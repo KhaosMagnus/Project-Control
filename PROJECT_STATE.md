@@ -74,3 +74,7 @@ Se preparó incorporación de 6 originales públicos, síntesis de 14 fuentes re
 ## P1 preflight de extracción — 2026-11-22
 
 Plan documental `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`: inventario del payload v1.0 congelado y builder histórico; bloquea importación automática a main sin grant del Owner y QA. Estado `PREPARED / MAIN UNCHANGED / G3-G5 DEFERRED`.
+
+## Estrategia local de ramas aprobada — 2026-11-22
+
+Owner aprobó comenzar desarrollo fuera de main mediante `dev/portable`, con `main` protegida para releases aceptadas; ramas pequeñas solo cuando necesiten aislamiento y cierre después de validar incorporación. Autoridad y límites en `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. **No modifica main, G2-B, protocolo congelado ni G3-G5 automáticamente.**

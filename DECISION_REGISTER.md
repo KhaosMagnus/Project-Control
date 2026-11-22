@@ -19,3 +19,7 @@
 | PCM-VERSIONING-001 / aclaración de propósito | Owner | Considerar SemVer como **futura regla del protocolo Project Control**, sometida a evaluación de integración; NO adopción de una regla actual ni publicación de nuevas versiones | Mensaje Owner observado por PCM-001 en la conversación; externamente SECONDARY_ATTRIBUTED sin export original. Registro aditivo `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md` |
 
 La formulación MAJOR/MINOR/PATCH del borrador precedente sigue siendo propuesta técnica. La aclaración no convierte sus criterios específicos en normas aceptadas.
+
+## PCM-BRANCH-STRATEGY-001 — Aprobación del Owner / 2026-11-22
+
+| Estrategia local del maestro | Owner | Aprobó aplicar desarrollo mediante `dev/portable` desde `main`, ramas de función/fix temporales cuando proceda; mantener main protegida y no integrar sin QA y autorización | Mensaje Owner observado directamente en esta conversación; constancia secundaria reproducible `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. No es adopción global del protocolo |

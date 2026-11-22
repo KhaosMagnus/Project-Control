@@ -60,3 +60,7 @@ Owner autorizó finalizar clasificación y recuperación documental sin añadir 
 ## PCM-P1-PREP-001 — 2026-11-22
 
 PREPARED DOCUMENTARY ONLY: extracción propuesta desde `KhaosMagnus/YU3DOH-Carder` @ `056adb5097b7ce067082782e8d8c92b42db9082a`; fuentes y blobs exactos en `planning/PCM-P1-PREP-001_PORTABLE_BOOTSTRAP_EXTRACTION_READINESS_2026-11-22.md`. **OWNER IMPORT AUTHORIZATION NOT GRANTED**, QA/release/deployment not started. Se encontró dependencia del builder histórico a SHA de otro repositorio. Próxima ruta: Owner decide `GRANTED / DEFERRED / REVISE` para importación exacta a `main` cuando proceda; no hay ejecución por este registro.
+
+## PCM-BRANCH-STRATEGY-001 — 2026-11-22
+
+OWNER GRANTED (local): activar desarrollo del estándar en `dev/portable`, nacida desde main `6d6f3639bc0cb84bc76845ad66f859e3fa1117bb`; preservar primero bootstrap histórico v1.0 como snapshot original. Sin autorización para fusionar en main, publicar release ni cambiar rulesets. Rutas de autoridad `decisions/PCM-BRANCH-STRATEGY-001_OWNER_APPROVAL_2026-11-22.md`. Estado de ejecución por verificar después de la creación de rama/importación.

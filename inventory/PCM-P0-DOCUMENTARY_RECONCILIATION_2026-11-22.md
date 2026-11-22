@@ -40,3 +40,7 @@ Inspección de los archivos de trabajo montados en esta sesión, no del universo
 **SOURCE:** PCM-001; **TARGET:** Owner y próxima instancia de gobierno; **ACTION:** completar inventario por lotes, incorporando únicamente fuentes de publicación permitida con digest verificado y referencias de autoridad. **RETURN:** actualizar PROJECT_STATE, REQUEST_LEDGER y ARTIFACT_INDEX por commit aditivo tras cada lote.
 
 La exportación literal de mensajes Owner a este repositorio público requiere tratamiento independiente. El índice es evidencia primaria de su propio inventario, no de autenticidad de las decisiones históricas relatadas.
+
+## Continuación de recuperación — archivo 002
+
+Cinco fuentes de CORR-001 archivadas en `records/provenance` con digests exactos. `PCM-VERSIONING-001`: alcance aclarado por Owner para eventual **regla normativa** del protocolo; propuesta no efectiva. Detalle, cadena de estados y ruta de retorno en `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2026-11-22.md`.

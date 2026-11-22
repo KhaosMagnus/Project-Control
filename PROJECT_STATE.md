@@ -35,3 +35,9 @@
 - El censo local identificó 107 archivos (91 MD, 12 ZIP, 4 imágenes); hay documentos CONTROLLED excluidos de la rama pública y el inventario no está cerrado.
 - Estado: `DOCUMENTARY P0 ARCHIVE IN PROGRESS`; bootstrap integral y estándar en `main` siguen NO PUBLICADOS.
 - Registros nuevos: `inventory/PCM-P0-DOCUMENTARY_RECONCILIATION_2026-11-22.md` y `proposals/PCM-VERSIONING-001_SEMVER_POLICY_PROPOSAL_2026-11-22.md` (propuesta no efectiva).
+
+## P0 archivo 002 — 2026-11-22
+
+- Se archivan cinco documentos de `CORR-001`: R2, R3, dos QA de R2 y conciliación, en `records/provenance/`. El estado **R3 QA NOT AUTHORIZED / CORR NOT ACCEPTED** permanece.
+- `PCM-VERSIONING-001` sigue **PROPOSED**; el Owner ha aclarado que su objeto es una regla normativa **futura** del protocolo, no una recomendación operativa opcional. La aclaración no la adopta aún. Ver `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md`.
+- Detalle y límites en `inventory/PCM-P0-ARCHIVE-002_CORR_CUSTODY_AND_VERSIONING_2026-11-22.md`. `main` sin modificación; bootstrap sigue INCOMPLETE.

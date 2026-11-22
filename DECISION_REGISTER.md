@@ -13,3 +13,9 @@
 | PCM-BOOTSTRAP-RECOVERY-001 | Owner | Orden contemporánea de continuar documentación en Project Control; alcance interpretado exclusivamente como checkpoint documental aditivo en `meta/project-control` | Mensajes originales actuales visibles localmente para PCM-001; tercero sin export: `SECONDARY_ATTRIBUTED`. No autorización para `main`, releases, cambios de reglas ni bootstrap total |
 
 **Regla de control:** recomendación del agente, redacción, mensaje Owner, autorización operativa, ejecución y QA son actos separados. Si surge una contradicción con el contrato histórico STOP hasta disposición de la autoridad pertinente.
+
+## Registro posterior de aclaración Owner — 2026-11-22
+
+| PCM-VERSIONING-001 / aclaración de propósito | Owner | Considerar SemVer como **futura regla del protocolo Project Control**, sometida a evaluación de integración; NO adopción de una regla actual ni publicación de nuevas versiones | Mensaje Owner observado por PCM-001 en la conversación; externamente SECONDARY_ATTRIBUTED sin export original. Registro aditivo `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md` |
+
+La formulación MAJOR/MINOR/PATCH del borrador precedente sigue siendo propuesta técnica. La aclaración no convierte sus criterios específicos en normas aceptadas.

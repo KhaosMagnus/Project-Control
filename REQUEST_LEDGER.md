@@ -22,3 +22,9 @@
 **PCM-P0-ARCHIVE-001** — Owner autorizó continuar centralizando documentación en el repositorio de gobierno. PCM-001 ejecutó una **primera incorporación acotada** de cuatro fuentes R3 y una matriz de custodia. Estado `IN_PROGRESS`. El volumen remanente necesita clasificación por archivo para evitar publicar fuentes CONTROLLED. **Próximo destinatario:** PCM-001 para continuar inventario documentado; Owner decide cambios normativos, de seguridad y futuras importaciones a main.
 
 **PCM-VERSIONING-001** — Owner propuso semántica mayor / herramientas compatibles / correcciones. Borrador detallado en `proposals/`, estado `PROPOSED; NOT ADOPTED`. No implica publicar v1.0.1/v1.1.0/v2.0.0 ni alterar protocolo FROZEN.
+
+## Actualización P0 archivo 002 — 2026-11-22
+
+**PCM-P0-ARCHIVE-002:** IN_PROGRESS; cinco originales CORR-001 archivados, con estados de QA R2 preservados. `CORR-001 R3` todavía candidato, re-QA NO AUTORIZADA. Próxima ruta: clasificar G2-B sin publicar evidencia controlada.
+
+**PCM-VERSIONING-001 — aclaración vinculante del alcance de la propuesta, no adopción de su contenido:** Owner especifica que se persigue una **regla futura del protocolo**, no una pauta opcional. Estado de la política `PROPOSED FOR FUTURE NORMATIVE EVALUATION / NOT EFFECTIVE`. Documento `decisions/PCM-VERSIONING-001_OWNER_SCOPE_CLARIFICATION_2026-11-22.md`. Destinatario futuro: Owner mediante diseño/QA/release separadas; no hay autorización para cambiar `main`.

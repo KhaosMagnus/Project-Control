@@ -66,3 +66,7 @@ Cuatro originales adicionales G2-A/QA publicados con SHA exacto. Total de origin
 ## P0 — Evaluación de retención y privacidad (2026-11-22)
 
 El expediente `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md` clasifica las 37 fuentes residuales por utilidad real, no por extensión o etiqueta `CONTROLLED`. Resultado **PROPOSED ONLY**: 6 originales candidatos a público, 14 para síntesis sanitizada, 4 ZIP exactos retenibles temporalmente por gates abiertos, 9 objetos candidatos transitorios (8 ZIP + una captura de ramas), 3 capturas pendientes de contraste histórico y 1 alias ya archivado. No se decide depósito privado, borrado ni cierre de P0.
+
+## P0 etapa documental normalizada — 2026-11-22
+
+Se preparó incorporación de 6 originales públicos, síntesis de 14 fuentes restringidas y clasificación de nueve auxiliares singulares de ZIP. Ver `inventory/PCM-P0-CUSTODY-003_PUBLIC_ARCHIVE_AND_RESTRICTED_RECAP_2026-11-22.md`. El censo local conserva 107 identidades; no existe respaldo privado de fuentes bloqueadas. `MAIN` intacta, G2-B/CORR/UNI pendientes.

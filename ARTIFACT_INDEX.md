@@ -64,3 +64,7 @@ Cuatro originales QA G2-A en `records/g2a/` archivados con SHA en `inventory/PCM
 ## Matriz de utilidad documental — PCM-P0-RETENTION-001 (2026-11-22)
 
 `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md` añade disposición propuesta para las 37 entradas de CUSTODY-002. No sustituye sus SHA originales ni autoriza eliminación. Distinguye cuatro ZIP congelados pendientes, ocho paquetes candidatos a descarte condicionado, cuatro imágenes de diagnóstico, veinte Markdown no publicados y un alias ya custodiado. El repositorio privado adicional sigue **NOT DECIDED**.
+
+## PCM-P0-CUSTODY-003 — 2026-11-22
+
+Se añaden 6 fuentes originales en `records/g2a` y `records/provenance`; digests en `inventory/PCM-P0-CUSTODY-003_PUBLIC_ARCHIVE_AND_RESTRICTED_RECAP_2026-11-22.md`. 14 resúmenes sanitizados se agrupan en `records/sanitized/PCM-P0_G2A_ADMINISTRATIVE_AND_QA_SUMMARIES_2026-11-22.md`, sin sustituir original. Nueve auxiliares ZIP y sus SHA en `inventory/PCM-P0_AUXILIARY_ZIP_MEMBERS_DISPOSITION_2026-11-22.md`. Retención de cuatro ZIP exactos históricos sigue PENDING para QA abierta.

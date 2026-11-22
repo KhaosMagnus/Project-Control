@@ -52,3 +52,7 @@ Estado: `DOCUMENTARY LOCAL CENSUS RECONCILED / RAW PRIVATE CUSTODY OPEN`. Cuatro
 ## PCM-P0-RETENTION-001 — 2026-11-22
 
 Owner ordenó evaluar el valor documental de capturas, ZIP y archivos administrativos antes de definir almacenamiento privado. PCM-001 completó clasificación individual de 37 entradas; **resultado: RECOMMENDATION / NO OWNER RETENTION POLICY ACCEPTANCE**, `inventory/PCM-P0-RETENTION-001_EVIDENCE_VALUE_AND_PRIVACY_ASSESSMENT_2026-11-22.md`. Cuatro paquetes en `RETAIN_EXACT_PENDING_GATE`, nueve auxiliares singulares por clasificar y 20 Markdown de publicación pendiente (6 candidatos a original público y 14 candidatos a síntesis sanitizada). **RETURN:** PCM-001 → Owner cuando haya matriz de dependencias y propuesta definitiva de retención; no solicitar repo privado todavía.
+
+## PCM-P0-CUSTODY-003 — 2026-11-22
+
+Owner autorizó finalizar clasificación y recuperación documental sin añadir infraestructura ni eliminar originales. Se incorporan 6 originales públicos, 14 fichas resumidas sanitizadas y un análisis de nueve auxiliares singulares. **P0 CLASSIFICATION/ARCHIVE WORK COMPLETE FOR OBSERVED LOCAL SET**, mientras `EXACT BYTE PRIVATE EVIDENCE RECOVERY OPEN` para gates históricos. Siguiente fase propuesta: preparación documental de extracción del estándar en main (read/design only). Decisión Owner reservada para nuevas releases, integración y custodia privada.

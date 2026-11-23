@@ -106,3 +106,11 @@ Dev snapshot `dev/portable@e022aee2dfcba6f13bba4d0f4ac57ba4a59154e6`, parent `6d
 - **Problem addressed:** avoid falsely declaring source absent when it exists in Project files or Library; avoid unnecessary duplicate uploads; preserve search scope, byte integrity and publicability.
 - **Evidence:** original QA1 report `PCM-GOV-AUTHREQ-DES-001_IQA-001_CHATGPT_REPORT.md`, existing in user's Library with SHA-256 `e5e8b04d89ce73fa48a5144fa1dde91d983036648d20ef8c4348c7e72979bed7`. This index references the original; it does **not** copy report bytes to the public repo.
 - **Future gate:** portable standard proposal/compatibility/QA/Owner adoption are distinct and pending; do not treat local authorization as general normative release.
+
+## PCM-GOV-AUTHREQ-DES-002 / R2 — Candidato correctivo publicado (2026-11-22)
+
+- **Fuente original:** `planning/PCM-GOV-AUTHREQ-DES-002_R2_AUTHORIZATION_GATE_CORRECTIVE_CANDIDATE_2026-11-22.md` (publicado en `meta/project-control` por `PCM-002-AUTHREQ-002 — GRANTED`); **Git blob** `3e817012a1207eec3fe20a058333724b13b20506`, SHA-256 `fcf3acab3927731b61e6c7ca3a8f4ab4ca9b1b0fe27b19a3be152fd369fdfc15`, 23,117 bytes, 221 líneas.
+- **Alcance:** archivo nuevo y registro aditivo; R1 blob `332ab4813413cc2c317d33c4ed984cb82395dab4` conservado. No se publican los bytes de los informes externos.
+- **F1–F3:** cierre diferido solo por decisión competente; tabla de rechazo/decisión/estado; seguimiento de permisos one-shot y resultado incierto. AR-AC01–14 y AR-T01–18 + AR-N01–06 son cobertura de diseño propuesta, **NO TESTED / NO INDEPENDENT R2 QA**.
+- **Estado actual:** `PUBLISHED CANDIDATE / NOT FROZEN AS NORMATIVE CONTROL / NOT QA ACCEPTED`. La cabecera del candidato registra el estado al redactarse; la publicación efectiva debe acreditarse con el commit Git y el readback.
+- **Próxima etapa:** propuesta de re-QA focalizada R2 a autorización separada del Owner. Sin escrituras a `main` o `dev/portable`.
